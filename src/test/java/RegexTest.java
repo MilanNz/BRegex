@@ -1,6 +1,3 @@
-/*
- * Copyright 2017 OBD all rights reserved.
- */
 
 import org.junit.jupiter.api.Test;
 
